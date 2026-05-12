@@ -1,0 +1,3 @@
+! Removes NSFW button from FMHY.net which has faster updates than FMHY.xyz
+fmhy.net##.vp-external-link-icon.link.VPLink > .text
+fmhy.net##.item > .vp-external-link-icon.link.VPLink
